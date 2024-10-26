@@ -1,0 +1,11 @@
+<Entity tags="wand_altar">
+    <SpriteComponent
+        _tags="enabled_in_world"
+        image_file="mods/Custom Start/data/entities/wand_altar_visual.png"
+        offset_x="0"
+        offset_y="0"
+        update_transform="1"
+        update_transform_rotation="0"
+        alpha="1"
+    />
+</Entity>

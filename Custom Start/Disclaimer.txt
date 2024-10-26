@@ -1,0 +1,6 @@
+Large portions of code were adapted from Copi’s Cyol's Loadout Mod.
+EmanOn429's Wand Template on Reddit was also used as a reference.
+Additional assistance was provided by ChatGPT for troubleshooting and code completion.
+I claim no ownership of this, I just wanted to make a mod for myself and thought I'd post it and get some help completing it.
+
+Issues include 3rd and 4th wands not being centered properly in relation to the player's character and the images in the mod settings do not match nor change based on the corresponding selected spell.
